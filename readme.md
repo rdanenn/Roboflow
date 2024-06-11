@@ -20,6 +20,8 @@ Labelling digunakan untuk memberi spesifikasi pada foto, bagian apa pada foto ya
 1. Buat akun roboflow dan ikuti semua proses pembuatan workspace
 2. Dalam "Upload Data" masukkan video-video yang diambil, Roboflow akan "frame video" (mengambil foto setiap berapa frame)
 3. Setelah video di-frame, bisa "assign" jumlah foto yang akan di labelling kepada rekan (berbagi tugas)
+![Screenshot 2024-06-11 111445](https://github.com/rdanenn/Roboflow/assets/172345163/0d81dea4-f621-4c53-9901-e464c94b3c1b)
+
 
 #### Labelling
 1. Dalam "Annotate" mulai anotasi / labelling dataset yang telah diinput
@@ -34,3 +36,5 @@ Labelling digunakan untuk memberi spesifikasi pada foto, bagian apa pada foto ya
 1. Dalam "Generate" klik "Create new version", scroll ke bawah dan klik "create" pada "create"
 2. Dataset yang telah dilabelling akan digunakan untuk membuat "version" baru, jika ingin menambahkan dataset bisa membuat "version" baru lagi
 3. Klik "Export dataset" di sebelah kanan atas dan centang "download zip to computer" untuk mendapatkan export dataset
+![Screenshot 2024-06-11 111552](https://github.com/rdanenn/Roboflow/assets/172345163/cc86e1f1-afec-4bb7-928e-aa89839c6a62)
+

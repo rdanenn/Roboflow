@@ -10,6 +10,9 @@ Labelling digunakan untuk memberi spesifikasi pada foto, bagian apa pada foto ya
 1. Setelah menentukan barang yang ingin dideteksi, rekam video dengan fokus angle dari objek yang ingin di detect (misalkan mau deteksi bagian atas dari objek, maka fokuskan video ke bagian atas objek).
 2. Meskipun terfokus pada satu titik, coba untuk mendapatkan video dari sudut yang berbeda-beda (misal dari atas tapi agak miring).
 3. Ambil beberapa video dengan latar yang berbeda
+![Screenshot 2024-06-11 100427](https://github.com/rdanenn/Roboflow/assets/172345163/91259cc5-2f76-4620-9959-9f4924a39df3)
+![Screenshot 2024-06-11 110946](https://github.com/rdanenn/Roboflow/assets/172345163/849b95c2-c8cd-4fff-b9d7-538d3b7149e5)
+
 
 ### In roboflow:
 
@@ -24,6 +27,8 @@ Labelling digunakan untuk memberi spesifikasi pada foto, bagian apa pada foto ya
 3. Tentukan nama label yang ingin ditetapkan, nama label disamakan untuk semua objek yang sama
 4. Lakukan pada seluruh foto dalam dataset
 5. Semua dataset yang telah di-labelling bisa dilihat dalam "Dataset" di sebelah kiri
+![Screenshot 2024-06-11 110630](https://github.com/rdanenn/Roboflow/assets/172345163/9adde646-d378-4abf-b91d-367145c0e14f)
+
 
 #### Exporting
 1. Dalam "Generate" klik "Create new version", scroll ke bawah dan klik "create" pada "create"
